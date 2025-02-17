@@ -1,0 +1,9 @@
+{
+	"name": "jessedostal-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c2d101e-9c99-4693-9bf3-06ca8df6e3a5",
+		"tenantId": "3e5f91a1-9ba5-42f2-bbec-e72a9252681a"
+	}
+}
